@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 ## edit below variables as per your requirements -
-REPO_NAME = "MLflow-project-template-Sarad"
+REPO_NAME = "Super Resolution GAN"
 AUTHOR_USER_NAME = "sharad28"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = []
