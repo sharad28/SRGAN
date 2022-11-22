@@ -16,5 +16,8 @@ source_download_dirs:
   - path_to_data_1
 
 local_data_dirs:
-  - path_to_local_data_1
-  - path_to_local_data_2
+  data_dir : data
+  raw_data : raw_data
+  process_data : process_data
+
+
