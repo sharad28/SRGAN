@@ -1,4 +1,6 @@
 # This contains params to be used by the stages to train or predict
-Train:
+train:
   no_training : 5000
+  hr_img_size : 512,512
+  lr_img_size : 128,128
   

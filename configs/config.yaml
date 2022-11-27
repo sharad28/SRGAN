@@ -17,7 +17,7 @@ source_download_dirs:
 
 local_data_dirs:
   data_dir : data
-  raw_data : raw_data
+  raw_data : mirflickr25k\mirflickr
   process_data : process_data
 
 
