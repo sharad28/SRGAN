@@ -74,6 +74,9 @@ docs/_build/
 # PyBuilder
 target/
 
+#train_data
+data/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
@@ -141,3 +144,4 @@ configs/secrets.yaml
 mlruns/
 
 
+logs/running_logs.log
